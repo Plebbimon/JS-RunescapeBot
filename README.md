@@ -1,6 +1,6 @@
 # JS-RunescapeBot
 Runescape bot which uses color-detection on object markers in RuneLite
 
-# Dependencies
+ Dependencies
 
-Node.js v16.13.1
+* Node.js v16.13.1
