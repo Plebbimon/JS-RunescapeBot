@@ -2,6 +2,7 @@
 Runescape bot which uses color-detection on object markers in RuneLite
 
 ![Image of bot in action](https://i.imgur.com/438mvdA.png)
+![Console output of bot](https://i.imgur.com/VGcQtYm.png)
 
 ## Dependencies
 
